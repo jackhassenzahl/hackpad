@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "101_percent.kicad_pro",
+    "filename": "idk.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -487,7 +487,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/jack/Downloads/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "hackboard.step",
