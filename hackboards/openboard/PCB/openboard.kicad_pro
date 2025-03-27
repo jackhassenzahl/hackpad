@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "idk.kicad_pro",
+    "filename": "openboard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -490,7 +490,7 @@
       "plot": "C:/Users/jack/Downloads/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "hackboard.step",
+      "step": "C:/Users/jack/Downloads/pcb.step",
       "svg": "",
       "vrml": ""
     },

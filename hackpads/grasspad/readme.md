@@ -1,18 +1,30 @@
-# GRASSPAD!!
-A hackpad with a rotary encoder, some keys and an oled screen...
+# GrassPad
+A small macropad that looks like a block of grass, hence the name.
 
+The GrassPad has 6 MX switches and one rotary encoder it also has an 128x32 OLED screen and 5 RGB LEDs.
 
-I didn't have enough time to make the firmware because i had to study for a math test :sob: BUT I will try and update it in the future with the firmware and everything I actually need to assemble it is here (case and pcb...) 
+# Full Model
+<img src="./assets/GrassPad.png">
 
+# Case
+<img src="./assets/case.png">
 
-The case is also quite crude with the fitting of the usbc and how it works but I will fix it in later revisions since I have my own 3D printer
+# Schematic
+<img src="./assets/schematic.png">
 
+# PCB
+Wireframe:
+<img src="./assets/wireframe.png">
 
-# BOM:
-- 1x SSD1306 OLED display
-- 1x Seeed Studio XIAO RP2040
-- 12x Cherry MX Switches
-- 12x 1N4148W diodes
-- 1x EC11 Encoder
+PCB:
+<img src="./assets/pcb.png">
 
-![imagge of the PAD](image.png)
+BOM:
+- Seeed XIAO RP2040 x1
+- PCB x1
+- MX-Style switches x6
+- EC11 Rotary encoder x1
+- 0.91 inch OLED display (black if possible) x1
+- Blank DSA keycaps x6
+- SK6812 MINI-E LEDs x5
+- 1N4148 DO-35 Diodes x6
