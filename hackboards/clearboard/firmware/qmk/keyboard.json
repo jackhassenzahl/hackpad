@@ -1,6 +1,6 @@
 {
     "manufacturer": "Jack Hassenzahl",
-    "keyboard_name": "clearboard",
+    "keyboard_name": "weirdboard",
     "maintainer": "jackhassenzahl",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
